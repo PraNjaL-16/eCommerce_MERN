@@ -9,7 +9,7 @@ Make Sure to Create a config.env file in backend/config directory and add approp
 
 **Essential Variables**
 PORT=
-DB_URI =
+DATABASE_URI =
 STRIPE_API_KEY=
 STRIPE_SECRET_KEY=
 JWT_SECRET=
